@@ -1,4 +1,4 @@
-# Cpp-A-Hands-on-Introduction-Specialization
+# [Cpp-A-Hands-on-Introduction-Specialization](https://www.coursera.org/specializations/hands-on-cpp)
 Programming in C++: A Hands-on Introduction Specialization from Codio
 
 Hands-on Introduction to C++ Programming. Code and run your first C++ program in minutes without installing anything!
@@ -44,3 +44,20 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Explain the difference between an if statement and an if-else statement
 - Describe the switch case syntax
 - Identify when to apply switch case statements instead of nested if-else
+
+1. [If Statement](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/1-IfStatement/)
+2. [If Else Statement](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/2-IfElseStatement/)
+3. [Switch Case Statement](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/3-Switch-CaseStatement/)
+4. [Conditionals Lab](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/4-ConditionalsLab/)
+5. [Conditionals Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/5-Conditionals-CodingExercises/)
+
+## [Module 4: Loops](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/)
+**Learning Objectives**
+- Explain for loop syntax
+- Identify the causes of an infinite loop
+- Identify the relationship between patterns, loops, and output
+- Explain while loop syntax
+- Identify the causes of an infinite while loop
+- Describe the break statement as it relates to a while loop
+- Explain nested loop syntax
+- Identify the relationship between the variables in each loop with the output produced
