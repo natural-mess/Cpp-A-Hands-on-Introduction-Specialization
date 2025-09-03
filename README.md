@@ -61,3 +61,10 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Describe the break statement as it relates to a while loop
 - Explain nested loop syntax
 - Identify the relationship between the variables in each loop with the output produced
+
+1. [For Loops](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/1-ForLoops/)
+2. [While Loops](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/2-WhileLoops/)
+3. [Nested Loops](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/3-NestedLoops/)
+4. [Loops Lab](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/4-LoopsLab/)
+5. [Loops Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/5-Loops-CodingExercises/)
+
