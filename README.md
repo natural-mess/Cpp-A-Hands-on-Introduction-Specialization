@@ -68,3 +68,20 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 4. [Loops Lab](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/4-LoopsLab/)
 5. [Loops Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/5-Loops-CodingExercises/)
 
+## [Course 2: C++ Basic Structures: Vectors, Pointers, Strings, and Files](./C2-Cpp-Basic-Structures/)
+## [Module 1: Vectors](./C1-Cpp-Basics_Selection-and-Iteration/M1-Vectors/)
+**Learning Objectives**
+- Create and initialize an array
+- Access and modify array elements
+- Iterate through arrays using both a regular for loop and an enhanced for loop
+- Determine array output
+- Create an empty vector
+- Add and remove vector elements
+- Modify vector elements
+- Iterate through vector using both a regular for loop and an enhanced for loop
+- Determine vector output
+- Determine key differences between vectors and arrays
+- Determine 2D array output
+- Create and initialize a 2D array
+- Access and modify 2D array elements
+- Iterate through 2D arrays using both a regular for loop and an enhanced for loop
