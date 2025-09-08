@@ -85,3 +85,16 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Create and initialize a 2D array
 - Access and modify 2D array elements
 - Iterate through 2D arrays using both a regular for loop and an enhanced for loop
+
+1. [Array Basics](./C2-Cpp-Basic-Structures/M1-Vectors/1-Array-Basics/)
+2. [Vector Basics](./C2-Cpp-Basic-Structures/M1-Vectors/2-Vector-Basics/)
+3. [2D Arrays](./C2-Cpp-Basic-Structures/M1-Vectors/3-2D-Arrays/)
+4. [Vectors Lab](./C2-Cpp-Basic-Structures/M1-Vectors/4-VectorsLab/)
+5. [Vectors Coding Exercises](./C2-Cpp-Basic-Structures/M1-Vectors/5-Vector-CodingExercises/)
+
+## [Module 2: Pointers](./C1-Cpp-Basics_Selection-and-Iteration/M2-Pointers/)
+**Learning Objectives**
+- Define what a pointer is
+- Declare a pointer
+- Apply the reference or address operator “&”
+- Apply the dereference or content operator “*”
