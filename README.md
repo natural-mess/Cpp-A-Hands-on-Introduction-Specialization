@@ -69,7 +69,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 5. [Loops Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/5-Loops-CodingExercises/)
 
 ## [Course 2: C++ Basic Structures: Vectors, Pointers, Strings, and Files](./C2-Cpp-Basic-Structures/)
-## [Module 1: Vectors](./C1-Cpp-Basics_Selection-and-Iteration/M1-Vectors/)
+## [Module 1: Vectors](./C2-Cpp-Basic-Structures/M1-Vectors/)
 **Learning Objectives**
 - Create and initialize an array
 - Access and modify array elements
@@ -92,14 +92,28 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 4. [Vectors Lab](./C2-Cpp-Basic-Structures/M1-Vectors/4-VectorsLab/)
 5. [Vectors Coding Exercises](./C2-Cpp-Basic-Structures/M1-Vectors/5-Vector-CodingExercises/)
 
-## [Module 2: Pointers](./C1-Cpp-Basics_Selection-and-Iteration/M2-Pointers/)
+## [Module 2: Pointers](./C2-Cpp-Basic-Structures/M2-Pointers/)
 **Learning Objectives**
 - Define what a pointer is
 - Declare a pointer
 - Apply the reference or address operator “&”
 - Apply the dereference or content operator “*”
 
-1. [Pointers Basics](./C2-Cpp-Basic-Structures/M2-Pointers/1-PointersBasics/)
+1. [Pointers Basics](./C2-Cpp-Basic-Structures/M2-Pointers/1-PointerBasics/)
 2. [Pointers Lab](./C2-Cpp-Basic-Structures/M2-Pointers/2-PointersLab/)
 3. [Pointers Coding Exercises](./C2-Cpp-Basic-Structures/M2-Pointers/3-Pointers-CodingExercises/)
+
+## [Module 3: Strings](./C2-Cpp-Basic-Structures/M3-Strings/)
+**Learning Objectives**
+- Identify the three properties of strings
+- Understand the meaning of mutability
+- Determine if a string is present in another string and at what index
+- Print a string from the start index to end index
+- Utilize escape characters to add special characters to a string
+- Identify the functions and applications of the following string functions: find_first_of() & find_last_of() push_back() & insert() pop_back() & erase() replace() append() toupper() & tolower()
+- Define string iteration
+- Identify two ways to iterate over a string
+- Explain the inner workings of string iteration
+- Compare strings with == and !=
+- Compare strings with compare()
 
