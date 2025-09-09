@@ -98,3 +98,8 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Declare a pointer
 - Apply the reference or address operator “&”
 - Apply the dereference or content operator “*”
+
+1. [Pointers Basics](./C2-Cpp-Basic-Structures/M2-Pointers/1-PointersBasics/)
+2. [Pointers Lab](./C2-Cpp-Basic-Structures/M2-Pointers/2-PointersLab/)
+3. [Pointers Coding Exercises](./C2-Cpp-Basic-Structures/M2-Pointers/3-Pointers-CodingExercises/)
+
