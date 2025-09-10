@@ -117,3 +117,10 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Compare strings with == and !=
 - Compare strings with compare()
 
+1. [String Basics](./C2-Cpp-Basic-Structures/M3-Strings/1-StringBasics/)
+2. [String Functions](./C2-Cpp-Basic-Structures/M3-Strings/2-StringFunctions/)
+3. [String Iteration](./C2-Cpp-Basic-Structures/M3-Strings/3-StringIteration/)
+4. [String Comparision](./C2-Cpp-Basic-Structures/M3-Strings/4-StringComparison/)
+5. [String Lab](./C2-Cpp-Basic-Structures/M3-Strings/5-StringsLab/)
+6. [String Coding Exercises](./C2-Cpp-Basic-Structures/M3-Strings/6-Strings-CodingExercises/)
+
