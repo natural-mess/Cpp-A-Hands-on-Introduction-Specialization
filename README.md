@@ -124,3 +124,27 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 5. [String Lab](./C2-Cpp-Basic-Structures/M3-Strings/5-StringsLab/)
 6. [String Coding Exercises](./C2-Cpp-Basic-Structures/M3-Strings/6-Strings-CodingExercises/)
 
+## [Module 4: Files](./C2-Cpp-Basic-Structures/M4-Files/)
+**Learning Objectives**
+- Demonstrate how to open a file using ifstream
+- Use the get(), getline(), and rdbuf() functions to read a string stream
+- Iterate through a file using a while loop
+- Define the term “token”
+- Tokenize a string read from a file using a delimiter
+- Ignore characters in a file with the ignore() function
+- Demonstrate how to open a file and write to it using ofstream
+- Explain what happens when you write to a file that does not exist
+- Demonstrate how to write multiline strings to a file
+- Differentiate between input, output, and append modes
+- Define CSV
+- Read data from a CSV file
+- Iterate over a CSV file
+- Print data from a CSV file with formatting
+- Write data to a CSV file
+
+1. [Reading a file](./C2-Cpp-Basic-Structures/M4-Files/1-Reading-a-File/)
+2. [Writing to a file](./C2-Cpp-Basic-Structures/M4-Files/2-Writing-to-a-File/)
+3. [CSV Files](./C2-Cpp-Basic-Structures/M4-Files/3-CSV-Files/)
+4. [Files Lab](./C2-Cpp-Basic-Structures/M4-Files/4-FilesLab/)
+5. [Files COding Exercises](./C2-Cpp-Basic-Structures/M4-Files/5-Files-CodingExercises/)
+
