@@ -18,7 +18,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 3. [Basic Skills Lab](./C1-Cpp-Basics_Selection-and-Iteration/M1-Basic-Skills/3-BasicSkillsLab/)
 4. [Basic Skills Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M1-Basic-Skills/4-BasicSkills-CodingExercises/)
 
-## [Module 2: Operators](./C1-Cpp-Basics_Selection-and-Iteration/M2-Operators/)
+### [Module 2: Operators](./C1-Cpp-Basics_Selection-and-Iteration/M2-Operators/)
 **Learning Objectives**
 - Recognize the symbols for arithmetic operators
 - Use the printf() command to print doubles and integers
@@ -34,7 +34,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 3. [Operators Lab](./C1-Cpp-Basics_Selection-and-Iteration/M2-Operators/3-OperatorsLab/)
 4. [Operators Coding Exercises](/C1-Cpp-Basics_Selection-and-Iteration/M2-Operators/4-Operators-CodingExercises/)
 
-## [Module 3: Conditionals](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/)
+### [Module 3: Conditionals](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/)
 **Learning Objectives**
 - Describe if statement syntax
 - Use a conditional statement to make decisions
@@ -51,7 +51,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 4. [Conditionals Lab](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/4-ConditionalsLab/)
 5. [Conditionals Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M3-Conditionals/5-Conditionals-CodingExercises/)
 
-## [Module 4: Loops](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/)
+### [Module 4: Loops](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/)
 **Learning Objectives**
 - Explain for loop syntax
 - Identify the causes of an infinite loop
@@ -69,7 +69,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 5. [Loops Coding Exercises](./C1-Cpp-Basics_Selection-and-Iteration/M4-Loops/5-Loops-CodingExercises/)
 
 ## [Course 2: C++ Basic Structures: Vectors, Pointers, Strings, and Files](./C2-Cpp-Basic-Structures/)
-## [Module 1: Vectors](./C2-Cpp-Basic-Structures/M1-Vectors/)
+### [Module 1: Vectors](./C2-Cpp-Basic-Structures/M1-Vectors/)
 **Learning Objectives**
 - Create and initialize an array
 - Access and modify array elements
@@ -92,7 +92,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 4. [Vectors Lab](./C2-Cpp-Basic-Structures/M1-Vectors/4-VectorsLab/)
 5. [Vectors Coding Exercises](./C2-Cpp-Basic-Structures/M1-Vectors/5-Vector-CodingExercises/)
 
-## [Module 2: Pointers](./C2-Cpp-Basic-Structures/M2-Pointers/)
+### [Module 2: Pointers](./C2-Cpp-Basic-Structures/M2-Pointers/)
 **Learning Objectives**
 - Define what a pointer is
 - Declare a pointer
@@ -103,7 +103,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 2. [Pointers Lab](./C2-Cpp-Basic-Structures/M2-Pointers/2-PointersLab/)
 3. [Pointers Coding Exercises](./C2-Cpp-Basic-Structures/M2-Pointers/3-Pointers-CodingExercises/)
 
-## [Module 3: Strings](./C2-Cpp-Basic-Structures/M3-Strings/)
+### [Module 3: Strings](./C2-Cpp-Basic-Structures/M3-Strings/)
 **Learning Objectives**
 - Identify the three properties of strings
 - Understand the meaning of mutability
@@ -124,7 +124,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 5. [String Lab](./C2-Cpp-Basic-Structures/M3-Strings/5-StringsLab/)
 6. [String Coding Exercises](./C2-Cpp-Basic-Structures/M3-Strings/6-Strings-CodingExercises/)
 
-## [Module 4: Files](./C2-Cpp-Basic-Structures/M4-Files/)
+### [Module 4: Files](./C2-Cpp-Basic-Structures/M4-Files/)
 **Learning Objectives**
 - Demonstrate how to open a file using ifstream
 - Use the get(), getline(), and rdbuf() functions to read a string stream
@@ -148,3 +148,21 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 4. [Files Lab](./C2-Cpp-Basic-Structures/M4-Files/4-FilesLab/)
 5. [Files COding Exercises](./C2-Cpp-Basic-Structures/M4-Files/5-Files-CodingExercises/)
 
+## [Course 3: C++ Object Basics: Functions, Recursion, and Objects](./C3-Cpp-Object-Basics/)
+### [Module 1: User-Defined Functions](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/)
+**Learning Objectives**
+- Demonstrate how to define a function
+- Differentiate between the function header and the function body
+- Identify the importance of the order of function definitions
+- Identify the purpose of C++ code documentation
+- Demonstrate how to define a function with parameters
+- Identify which value is assigned to each parameter
+- Catch exceptions with a try, throw, and catch
+- Define functions with the same name but different parameters
+- Demonstrate how to declare a function with an array and vector as a parameter
+- Differentiate between global and local scope
+- Explain what the keyword “const” does
+- Use the return keyword to return a value
+- Identify the return value of the print statement
+- Demonstrate the ability to return several different data types
+- Create and apply helper functions
