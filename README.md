@@ -166,3 +166,42 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Identify the return value of the print statement
 - Demonstrate the ability to return several different data types
 - Create and apply helper functions
+
+1. [Function Basics](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/1-FunctionBasics/)
+2. [Parameters](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/2-Parameters/)
+3. [Variable Scope](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/3-VariableScope/)
+4. [Returning Values](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/4-ReturningValues/)
+5. [Functions Lab](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/5-FunctionsLab/)
+6. [Functions Coding Exercises](./C3-Cpp-Object-Basics/M1-User-Defined-Functions/6-Functions-CodingExercises/)
+
+### [Module 2: Recursion](./C3-Cpp-Object-Basics/M2-Recursion/)
+**Learning Objectives**
+- Define recursion
+- Identify the base case
+- Identify the recursive pattern
+
+1. [What is Recursion](./C3-Cpp-Object-Basics/M2-Recursion/1-What-is-Recursion/)
+2. [Recursion Lab](./C3-Cpp-Object-Basics/M2-Recursion/2-RecursionLab/)
+3. [Recursion Coding Exercises](./C3-Cpp-Object-Basics/M2-Recursion/3-Recursion-CodingExercises/)
+
+### [Module 3: Introduction to Objects](./C3-Cpp-Object-Basics/M3-Intro-to-Objects/)
+**Learning Objectives**
+- Define the terms class, objects, instance, and instantiate
+- Identify the difference between classes and objects
+- Create a user-defined object
+- Modify an object’s attribute with dot notation
+- Define a constructor
+- Create a copy of an object
+
+1. [Classes and Objects](./C3-Cpp-Object-Basics/M3-Intro-to-Objects/1-ClassesAndObjects/)
+2. [Objects Lab](./C3-Cpp-Object-Basics/M3-Intro-to-Objects/2-ObjectsLab/)
+3. [Objects Coding Exercises](./C3-Cpp-Object-Basics/M3-Intro-to-Objects/3-Objects-CodingExercises/)
+
+### [Module 4: Mutability](./C3-Cpp-Object-Basics/M4-Mutability/)
+**Learning Objectives**
+- Define the term mutable
+- Construct an external function to modify class variables (attributes)
+- Define the term class function
+- Convert an external function that modifies an object into a class function
+- Demonstrate the syntax for defining and calling a class function
+

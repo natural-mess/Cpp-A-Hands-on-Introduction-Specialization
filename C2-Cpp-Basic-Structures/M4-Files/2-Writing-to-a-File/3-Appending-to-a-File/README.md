@@ -49,3 +49,54 @@ This effective mode `(ios::in | ios::out)` opens the file for both reading and w
 
 `if (!file)`: This check passes (no exception thrown) because the open succeeds.
 Note: While the mode allows reading, ofstream itself doesn't provide input functions (like `>>` or `getline`), so you couldn't read from it even if you wanted to. But output functions (like `<<`) work fine.
+
+Correct solution
+
+```cpp
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main() {
+  
+  string path = "student/text/practice3.txt";
+
+  try {
+    fstream file;              // use fstream
+    file.open(path, ios::out); // open file for writing
+    if (!file) {
+      throw runtime_error("File failed to open.");
+    }
+    string text = "Rain is in the forecast today.";
+    file << text;
+    file.close();
+
+    file.open(path, ios::in | ios::out); // reopen with read/write
+    if (!file) {
+      throw runtime_error("File failed to open.");
+    }
+    file << "Snow"; // overwrites first 4 characters
+    file.close();
+    
+    ifstream stream;
+    string read;
+    stream.open(path);
+    while (getline(stream, read)) {
+      cout << read << endl;
+    }
+    stream.close();
+  }
+    
+  catch (exception& e) { //catch error
+    cerr << e.what() << endl;
+  }
+  
+  return 0;
+}
+```
+
+There are some “hidden” mechanics in C++ streams that can make things confusing. Technically, nothing stops you from passing ios::in to an ofstream — it won’t give you a compiler error — but it’s not the right way to do it. The proper, standard approach when you want both reading and writing is to use fstream, which is designed to handle input and output. That’s the correction needed here: switch from ofstream to fstream so the code reflects best practices.
+
+As for why "Rain" turns into "Snow": when you reopen the file with ios::in | ios::out, the file pointer starts at the beginning of the file. Writing "Snow" from that position doesn’t insert new text; it simply overwrites the first four characters that were already there. That’s why the original "Rain" is replaced by "Snow" while the rest of the sentence stays the same. 
+
+Normally, opening a file with just ios::out will truncate (clear) the entire file before writing. But because ios::in was (improperly) used with ofstream, truncation didn’t occur, and the write call only replaced characters in place.
