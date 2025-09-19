@@ -170,3 +170,5 @@ int main(int argc, char** argv) {
     return 0;
 }
 ```
+
+![Question 1](_assets/Q1.png)

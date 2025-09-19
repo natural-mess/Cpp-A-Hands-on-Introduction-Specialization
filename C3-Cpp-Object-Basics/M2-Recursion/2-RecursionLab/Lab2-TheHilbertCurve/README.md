@@ -171,5 +171,6 @@ int main(int argc, char** argv) {
 }
 ```
 
-
+![Question 2-1](_assets/Q2-1.png)
+![Question 2-2](_assets/Q2-2.png)
 

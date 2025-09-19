@@ -34,6 +34,8 @@ int main() {
 
 Recursion is an abstract and difficult topic, so it might be a bit hard to follow what is going on here. When n is 5, C++ starts a multiplication problem of 5 * Factorial(4). The function runs again and the multiplication problem becomes 5 * 4 * Factorial(3). This continues until n is 1. C++ returns the value 1, and C++ solves the multiplication problem 5 * 4 * 3 * 2 * 1. The video below should help explain how 5! is calculated recursively.
 
+[Recursion video](_assets/recursion-video.m4v)
+
 ## The Base Case
 Each recursive function has two parts: the recursive case (where the function calls itself with a different parameter) and the base case (where the function stops calling itself and returns a value).
 
@@ -55,3 +57,4 @@ int Factorial(int n) {
 
 Always start with the base case when creating a recursive function. Each time the function is called recursively, the program should get one step closer to the base case.
 
+![Question 1](_assets/Q1.png)

@@ -63,3 +63,5 @@ int main() {
     return 0;
 }
 ```
+
+![Question 2](_assets/Q2.png)
