@@ -30,3 +30,5 @@ int main() {
 ```
 
 You’ll notice that the initializing one object to another created an exact copy of the original object. Each object is still treated as separate objects though so you can still freely change the attribute of one object without affecting another.
+
+![Question 5](_assets/Q5.png)

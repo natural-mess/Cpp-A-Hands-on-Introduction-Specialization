@@ -68,3 +68,4 @@ cout << helen.first_name + ' ' + helen.last_name << endl;
 
 When you attempted to print `cout << helen.first_name + ' ' + helen.last_name + " won " + helen.oscar_wins + " Oscar out of " + helen.oscar_nominations + " nominations" << endl;`, you likely received a very long error message. This happened because the operator `+` only works with same-type objects or data. In the print statement above, you tried to combine strings with integers which C++ did not like and therefore complained. To solve this, simply change the `+` to `<<`.
 
+![Question 3](_assets/Q3.png)

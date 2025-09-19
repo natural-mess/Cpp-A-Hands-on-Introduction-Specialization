@@ -59,3 +59,5 @@ cout << " years old and is graduating with a degree in ";
 cout << andy.major << " in " << andy.YOG << ".";
 ```
 
+![Question 1-1](_assets/Q1-1.png)
+![Question 1-2](_assets/Q1-2.png)

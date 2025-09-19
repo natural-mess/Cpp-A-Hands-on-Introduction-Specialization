@@ -49,4 +49,5 @@ cout << helen.first_name + ' ' + helen.last_name << endl;
 
 Note that many objects in C++ cannot be printed directly, thus `cout << helen << endl;` resulted in an error. When printing objects, be sure to reference their attributes.
 
-
+![Question 2-1](_assets/Q2-1.png)
+![Question 2-2](_assets/Q2-2.png)

@@ -14,7 +14,7 @@ int arr[1];
 cout << "arr is a: " << typeid(arr).name() << endl;
 ```
 
-The resulting output says arr is a: `A1_i`. `A1` stands for one dimensional array and `i` stands for integer.
+The resulting output says `arr is a: A1_i`. `A1` stands for one dimensional array and `i` stands for integer.
 
 ## Vocabulary
 In the text above, the words “class” and “object” are used in an almost interchangeable manner. There are many similarities between classes and objects, but there is also an important difference. Working with objects has a lot of specialized vocabulary.
@@ -27,3 +27,4 @@ In the text above, the words “class” and “object” are used in an almost 
 ![String Class](_assets/stringClass.png)
 
 
+![Question 1](_assets/Q1.png)
