@@ -313,4 +313,5 @@ int main()
     return 0;
 }
 ```
-
+![Question 3-1](_assets/Q3-1.png)
+![Question 3-2](_assets/Q3-2.png)

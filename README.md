@@ -205,3 +205,7 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Convert an external function that modifies an object into a class function
 - Demonstrate the syntax for defining and calling a class function
 
+1. [External Functions](./C3-Cpp-Object-Basics/M4-Mutability/1-ExternalFunctions/)
+2. [Class Functions](./C3-Cpp-Object-Basics/M4-Mutability/2-ClassFunctions/)
+3. [Mutability Lab](./C3-Cpp-Object-Basics/M4-Mutability/3-MutabilityLab/)
+4. [Mutability Coding Exercises](./C3-Cpp-Object-Basics/M4-Mutability/4-Mutability-CodingExercises/)

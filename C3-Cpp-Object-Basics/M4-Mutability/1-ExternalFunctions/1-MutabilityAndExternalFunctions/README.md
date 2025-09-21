@@ -142,4 +142,4 @@ int main() {
 ```
 You’ll notice above that `ChangeHealth(player1, 20)` had no effect on `PrintPlayer(player1)`. `player1`’s health changed to 20 but after it leaves the function, it returned to 0. Changes that occur within external functions are not permanent. Next, you will be introduced to class functions which will enable you to make changes to objects that are more permanent.
 
-
+![Question 1](_assets/Q1.png)

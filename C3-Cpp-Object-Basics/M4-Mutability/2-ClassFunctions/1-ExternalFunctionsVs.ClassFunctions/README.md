@@ -13,7 +13,7 @@ There are a few notable differences between external functions and class functio
 4. To modify an object using an external function, the syntax is `Function(Object)` (i.e. `ChangeLevel(mario)`). On the other hand, the syntax for using a class function is `Object.Function()` (i.e. `mario.ChangeLevel()`).
 
 ## Converting to Class Functions
-When mutability was first introduced, you made a `Player` class with a few external functions. You are now going to transform these external`functions into class functions moving forward. The `Player` class will be defined just as before. This time, however, `PrintPlayer` will be a part of the class.
+When mutability was first introduced, you made a `Player` class with a few external functions. You are now going to transform these external functions into class functions moving forward. The `Player` class will be defined just as before. This time, however, `PrintPlayer` will be a part of the class.
 
 ```cpp
 //add class definitions below this line
@@ -96,3 +96,5 @@ mario.PrintPlayer();
 
 ### Why learn about external functions that modify objects when C++ has class functions?
 It might seem like a waste of time to learn how to write external functions that modify objects, but this approach builds upon concepts you have already seen — external functions and objects. This allows you to understand mutability without having to worry about class functions. Once you understand how these ideas work, transforming an external function into an class function is much simpler. External functions that modify objects serve as an intermediary step on the way to learning about class functions.
+
+![Question 1](_assets/Q1.png)

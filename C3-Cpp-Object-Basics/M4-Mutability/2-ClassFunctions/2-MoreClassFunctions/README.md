@@ -144,3 +144,6 @@ int main() {
     return 0;
 }
 ```
+
+![Question 2-1](_asests/Q2-1.png)
+![Question 2-2](_asests/Q2-2.png)
