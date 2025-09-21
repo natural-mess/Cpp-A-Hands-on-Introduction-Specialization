@@ -209,3 +209,17 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 2. [Class Functions](./C3-Cpp-Object-Basics/M4-Mutability/2-ClassFunctions/)
 3. [Mutability Lab](./C3-Cpp-Object-Basics/M4-Mutability/3-MutabilityLab/)
 4. [Mutability Coding Exercises](./C3-Cpp-Object-Basics/M4-Mutability/4-Mutability-CodingExercises/)
+
+## [Course 4: Object-Oriented C++: Inheritance and Encapsulation](./C4-Cpp-Inheritance-and-Encapsulation/)
+### [Module 1: Encapsulation](./C4-Cpp-Inheritance-and-Encapsulation/M1-Encapsulation/)
+**Learning Objectives**
+- Define the term encapsulation
+- Differentiate between public and private
+- Explain which parts of a class should be public or private
+- Explain why encapsulation can be beneficial
+- Define data validation
+- Define the terms getter, setter, and data validation
+- Demonstrate how to access private attributes with getters
+- Demonstrate how to change private attributes with setters
+- Demonstrate validating data with setters
+
