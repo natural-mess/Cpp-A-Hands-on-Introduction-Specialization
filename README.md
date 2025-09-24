@@ -242,3 +242,17 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Define multilevel inheritance
 - Create multilevel inheritance from a class with a base class
 - Extend a class and override a function within multilevel inheritance
+
+1. [Base & Derived Classes](./C4-Cpp-Inheritance-and-Encapsulation/M2-Inheritance/1-Base-DerivedClasses/)
+2. [Extending and Overriding](./C4-Cpp-Inheritance-and-Encapsulation/M2-Inheritance/2-Extending-and-Overriding/)
+3. [Multilevel Inheritance](./C4-Cpp-Inheritance-and-Encapsulation/M2-Inheritance/3-MultilevelInheritance/)
+4. [Inheritance Lab](./C4-Cpp-Inheritance-and-Encapsulation/M2-Inheritance/4-InheritanceLab/)
+5. [Inheritance Coding Exercises](./C4-Cpp-Inheritance-and-Encapsulation/M2-Inheritance/5-Inheritance-CodingExercises/)
+
+### [Module 3: Polymorphism](./C4-Cpp-Inheritance-and-Encapsulation/M3-Polymorphism/)
+**Learning Objectives**
+- Define polymorphism
+- Explain how function overriding is an example of polymorphism
+- Overload a function
+- Override a function
+- Use an abstract function as a form of polymorphism
