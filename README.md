@@ -223,3 +223,22 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Demonstrate how to change private attributes with setters
 - Demonstrate validating data with setters
 
+1. [What is Encapsulation](./C4-Cpp-Inheritance-and-Encapsulation/M1-Encapsulation/1-What-is-Encapsulation/)
+2. [Getters and Setters](./C4-Cpp-Inheritance-and-Encapsulation/M1-Encapsulation/2-Getters-and-Setters/)
+3. [Encapsulation Lab](./C4-Cpp-Inheritance-and-Encapsulation/M1-Encapsulation/3-EncapsulationLab/)
+4. [Encapsulation Coding Exercises](./C4-Cpp-Inheritance-and-Encapsulation/M1-Encapsulation/4-Encapsulation-CodingExercises/)
+
+### [Module 2: Inheritance](./C4-Cpp-Inheritance-and-Encapsulation/M2-Inheritance/)
+**Learning Objectives**
+- Define the terms inheritance, base class, and derived class
+- Explain the relationship between the base class and the derived class
+- Create a derived class from a given base class
+- Understand how access modifiers work with inheritance types
+- Compare base and derived classes
+- Define Liskov’s Substitution Principle
+- Define the terms extending and overriding
+- Extend the derived class with a new function
+- Override functions from the base class with new functionality
+- Define multilevel inheritance
+- Create multilevel inheritance from a class with a base class
+- Extend a class and override a function within multilevel inheritance
