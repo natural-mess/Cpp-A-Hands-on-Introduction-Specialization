@@ -256,3 +256,19 @@ Hands-on Introduction to C++ Programming. Code and run your first C++ program in
 - Overload a function
 - Override a function
 - Use an abstract function as a form of polymorphism
+
+1. [Polymorphism](./C4-Cpp-Inheritance-and-Encapsulation/M3-Polymorphism/1-Polymorphism/)
+2. [Polymorphism Lab](./C4-Cpp-Inheritance-and-Encapsulation/M3-Polymorphism/2-PolymorphismLab/)
+3. [Polymorphism Coding Exercises](./C4-Cpp-Inheritance-and-Encapsulation/M3-Polymorphism/3-Polymorphism-CodingExercises/)
+
+### [Module 4: Advanced Topics](./C4-Cpp-Inheritance-and-Encapsulation/M4-AdvancedTopics/)
+**Learning Objectives**
+- Include and create an object defined in a separate file
+- Understand what the scope resolution operator does
+- Manipulate class variables not attached to a class object
+- Create structs and enums
+- Compare objects
+
+1. [Advanced Topics](./C4-Cpp-Inheritance-and-Encapsulation/M4-AdvancedTopics/1-AdvancedTopics/)
+2. [Advanced Topics Lab](./C4-Cpp-Inheritance-and-Encapsulation/M4-AdvancedTopics/2-AdvancedTopics-Lab/)
+3. [Advanced Topics Coding Exercises](./C4-Cpp-Inheritance-and-Encapsulation/M4-AdvancedTopics/3-AdvancedTopics-CodingExercises/)
